@@ -87,6 +87,8 @@ You must:
 This project is licensed under the MIT License.  
 Feel free to use, modify, and learn from it.
 
+---
+
 ## 👤 Author
 
 This project is made by Roshan Karki
